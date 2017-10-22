@@ -692,3 +692,8 @@ a:hover,
 #menu2-5 .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
+#gallery1-7 .mbr-gallery-item > div > span {
+  text-align: left;
+  color: #222222;
+  font-size: 22px;
+}

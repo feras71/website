@@ -378,10 +378,10 @@
         {
           "_params": {
             "showBullets": true,
-            "spacing": 0,
+            "spacing": "3",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#4be38f",
             "showText": true,
             "filter": true,
             "images": [
@@ -392,8 +392,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cepc-529x719-529x719.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "caption": "Sample of a Commercial Ener",
-                "active": true,
+                "caption": "Sample of a Commercial Energy Performance Certificates",
+                "active": false,
                 "alt": ""
               },
               {
@@ -430,34 +430,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -470,7 +444,14 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-7"
+          "_anchor": "gallery1-7",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "left",
+              "color": "#222222",
+              "font-size": "22px"
+            }
+          }
         }
       ]
     }
