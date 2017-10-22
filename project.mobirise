@@ -100,7 +100,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#222",
-            "fontSize": "0.95",
+            "fontSize": "1.15",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "#fff",
@@ -303,10 +303,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#fff"
@@ -348,7 +348,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#222",
-            "fontSize": "0.95",
+            "fontSize": "1.15",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "#fff",
@@ -379,8 +379,8 @@
           "_params": {
             "showBullets": true,
             "spacing": "3",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#4be38f",
             "showText": true,
             "filter": true,
@@ -392,7 +392,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cepc-529x719-529x719.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "caption": "Sample of a Commercial Energy Performance Certificates",
+                "caption": "&nbsp;Commercial Energy Performance Certificates (NDEPC)",
                 "active": false,
                 "alt": ""
               },
@@ -401,18 +401,22 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/3d-floor-plan-2000x1454.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3d-floor-plan-2000x1454-800x581.jpg",
+                "caption": "3D Floor plan",
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/2d-2-2000x1454.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2d-2-2000x1454-800x581.jpg",
+                "caption": "2D Floor plans",
+                "active": true,
+                "alt": ""
               },
               {
                 "tags": "Animated",
@@ -421,17 +425,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -447,8 +442,8 @@
           "_anchor": "gallery1-7",
           "_styles": {
             ".mbr-gallery-item > div > span": {
-              "text-align": "left",
-              "color": "#222222",
+              "text-align": "center",
+              "color": "#d900ed",
               "font-size": "22px"
             }
           }
