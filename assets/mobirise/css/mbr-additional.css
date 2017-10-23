@@ -548,11 +548,11 @@ a:hover,
   color: #ffffff;
 }
 #menu2-0 .link {
-  font-size: 0.95rem;
+  font-size: 1.15rem;
 }
 #menu2-0 .dropdown-item,
 #menu2-0 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.245rem;
 }
 #menu2-0 .link:hover,
 #menu2-0 .dropdown-item:hover,
@@ -696,4 +696,79 @@ a:hover,
   text-align: center;
   color: #d900ed;
   font-size: 22px;
+}
+#menu2-8 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-8 .navbar-caption {
+  color: #ffffff;
+}
+#menu2-8 .navbar-toggler {
+  color: #ffffff;
+}
+#menu2-8 .close-icon::before,
+#menu2-8 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu2-8 .link,
+#menu2-8 .dropdown-item {
+  color: #ffffff;
+}
+#menu2-8 .link {
+  font-size: 1.15rem;
+}
+#menu2-8 .dropdown-item,
+#menu2-8 .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#menu2-8 .link:hover,
+#menu2-8 .dropdown-item:hover,
+#menu2-8 .link:focus,
+#menu2-8 .dropdown-item:focus {
+  color: #fff;
+}
+#menu2-8 .link[aria-expanded="true"],
+#menu2-8 .dropdown-menu {
+  background: #080808;
+}
+#menu2-8 .nav-dropdown-sm .link:focus,
+#menu2-8 .nav-dropdown-sm .link:hover,
+#menu2-8 .nav-dropdown-sm .dropdown-item:focus,
+#menu2-8 .nav-dropdown-sm .dropdown-item:hover {
+  background: #1a1a1a!important;
+}
+#menu2-8 .navbar,
+#menu2-8 .nav-dropdown-sm,
+#menu2-8 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-8 .nav-dropdown-sm .dropdown-menu {
+  background: #222;
+}
+#menu2-8 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu2-8 .navbar-toggler i,
+#menu2-8 .navbar-toggler em,
+#menu2-8 .navbar-toggler i:before,
+#menu2-8 .navbar-toggler em:before,
+#menu2-8 .navbar-toggler i:after,
+#menu2-8 .navbar-toggler em:after {
+  background: #ffffff;
+}
+#menu2-8 .navbar-toggler[aria-expanded="true"] i,
+#menu2-8 .navbar-toggler[aria-expanded="true"] em {
+  background: transparent;
+}
+#menu2-8 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-8 .bg-color.transparent.opened .link:hover,
+#menu2-8 .bg-color.transparent.opened .link:focus {
+  color: #fff;
+}
+#menu2-8 .link[aria-expanded="true"] {
+  color: #fff!important;
+}
+#menu2-8 .dropdown-item[aria-expanded="true"] {
+  color: #222!important;
 }
