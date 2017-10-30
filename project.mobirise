@@ -23,7 +23,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 12,
+    "uniqCompNum": 14,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": "",
@@ -60,10 +60,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#fff"
@@ -115,7 +115,7 @@
             "fontHoverColor": "#fff",
             "fontActiveColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">aCCREDITATION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" target=\"_blank\">pay an invoice</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Get in touch</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lancashirehomeinspection.co.uk/page1\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">aCCREDITATION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" target=\"_blank\">pay an invoice</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Get in touch</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -141,7 +141,7 @@
             "paddingTop": "3",
             "paddingBottom": "0",
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showButtons": false,
             "parallax": true,
             "bgImageRadio": false,
@@ -170,7 +170,7 @@
               "loop": false
             }
           },
-          "title": "LANCASHIRE HOME INSPECTION LIMITED",
+          "title": "LANCASHIRE HOME INSPECTION LIMITED &nbsp;",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
@@ -185,7 +185,7 @@
               "font-size": "60px"
             },
             "H1": {
-              "font-size": "48px",
+              "font-size": "32px",
               "text-align": "left",
               "color": "#022b16"
             }
@@ -295,10 +295,10 @@
         }
       ]
     },
-    "page1.html": {
+    "page2.html": {
       "settings": {
-        "title": "Floor plans&nbsp;",
-        "order": 1
+        "title": "EPCs",
+        "order": 3
       },
       "components": [
         {
@@ -376,171 +376,7 @@
             "fontHoverColor": "#fff",
             "fontActiveColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">aCCREDITATION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" target=\"_blank\">pay an invoice</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Get in touch</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-64x61.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            }
-          },
-          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a>  <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-dribbble\"></i></a> ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:01253829827\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01253 829827<br>&nbsp; &nbsp; &nbsp; &nbsp;07951742591<br><br></a><a data-app-btn=\"true\" href=\"mailto:epcinstruction@gmail.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span> info@lancashirehomeinspection.co.uk</a>",
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu2",
-          "_anchor": "menu2-5"
-        },
-        {
-          "_params": {
-            "showBullets": true,
-            "spacing": "4",
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgColor": "#7aa0ed",
-            "showText": true,
-            "filter": true,
-            "images": [
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/3d-floor-plan-2000x1454.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3d-floor-plan-2000x1454-800x581.jpg",
-                "caption": "3D Floor plan",
-                "active": true,
-                "alt": ""
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2d-2-2000x1454.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2d-2-2000x1454-800x581.jpg",
-                "caption": "2D Floor plans",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
-                "caption": "Please bear with us, &nbsp;we are constructing our new website, Thank you.&nbsp;",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
-          "allItem": "All",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-7",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "left",
-              "color": "#d900ed",
-              "font-size": "22px"
-            }
-          }
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "EPCs",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1.15rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#080808"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1a1a1a!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#222"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#ffffff"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"]": {
-              "color": "#fff!important"
-            },
-            ".dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#c441d6",
-            "fontSize": "0.8",
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#46004c",
-            "fontHoverColor": "#fff",
-            "fontActiveColor": "#222"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">aCCREDITATION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" target=\"_blank\">pay an invoice</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Get in touch</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lancashirehomeinspection.co.uk/page1\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">aCCREDITATION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" target=\"_blank\">pay an invoice</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Get in touch</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -635,6 +471,173 @@
           ],
           "_name": "content4",
           "_anchor": "content4-b"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Page1",
+        "order": 2,
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#46004c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#46004c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#46004c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#fff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#aa28bc"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c034d3!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c441d6"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#46004c",
+              "transition": "none"
+            },
+            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
+              "background": "#46004c"
+            },
+            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
+              "background": "transparent"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#fff"
+            },
+            ".link[aria-expanded=\"true\"]": {
+              "color": "#fff!important"
+            },
+            ".dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#222!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#c441d6",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#46004c",
+            "fontHoverColor": "#fff",
+            "fontActiveColor": "#222"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lancashirehomeinspection.co.uk/page1\">Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">aCCREDITATION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" target=\"_blank\">pay an invoice</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Get in touch</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-64x61.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a>  <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-dribbble\"></i></a> ",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:01253829827\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01253 829827<br>&nbsp; &nbsp; &nbsp; &nbsp;07951742591<br><br></a><a data-app-btn=\"true\" href=\"mailto:epcinstruction@gmail.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span> info@lancashirehomeinspection.co.uk</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-c"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "spacing": "4",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#7aa0ed",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3d-floor-plan-2000x1454.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3d-floor-plan-2000x1454-800x581.jpg",
+                "caption": "3D Floor plan",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2d-2-2000x1454.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2d-2-2000x1454-800x581.jpg",
+                "caption": "2D Floor plans",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "caption": "Please bear with us, while &nbsp;constructing our new website, Thank you.&nbsp;",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "allItem": "All",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "left",
+              "color": "#d900ed",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "gallery1-d"
         }
       ]
     }
