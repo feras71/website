@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-22_1638",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -126,7 +126,7 @@
             }
           },
           "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a>  <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-dribbble\"></i></a> ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01253 829827<br>&nbsp; &nbsp; &nbsp; &nbsp;07951742591<br><br></a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span> info@lancashirehomeinspection.co.uk</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:01253829827\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01253 829827<br>&nbsp; &nbsp; &nbsp; &nbsp;07951742591<br><br></a><a data-app-btn=\"true\" href=\"mailto:epcinstruction@gmail.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span> info@lancashirehomeinspection.co.uk</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -309,38 +309,40 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#46004c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#46004c"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#46004c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1.35rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.462rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#fff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#080808"
+              "background": "#aa28bc"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1a1a1a!important"
+              "background": "#c034d3!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#222"
+              "background": "#c441d6"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#46004c",
               "transition": "none"
             },
             ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#ffffff"
+              "background": "#46004c"
             },
             ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
               "background": "transparent"
@@ -385,7 +387,7 @@
             }
           },
           "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a>  <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-dribbble\"></i></a> ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01253 829827<br>&nbsp; &nbsp; &nbsp; &nbsp;07951742591<br><br></a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span> info@lancashirehomeinspection.co.uk</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:01253829827\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01253 829827<br>&nbsp; &nbsp; &nbsp; &nbsp;07951742591<br><br></a><a data-app-btn=\"true\" href=\"mailto:epcinstruction@gmail.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span> info@lancashirehomeinspection.co.uk</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -433,7 +435,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
-                "caption": "Type caption here",
+                "caption": "Please bear with us, &nbsp;we are constructing our new website, Thank you.&nbsp;",
                 "active": false
               }
             ]
@@ -450,7 +452,7 @@
           "_anchor": "gallery1-7",
           "_styles": {
             ".mbr-gallery-item > div > span": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#d900ed",
               "font-size": "22px"
             }
@@ -549,7 +551,7 @@
             }
           },
           "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a>  <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-dribbble\"></i></a> ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01253 829827<br>&nbsp; &nbsp; &nbsp; &nbsp;07951742591<br><br></a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span> info@lancashirehomeinspection.co.uk</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:01253829827\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>01253 829827<br>&nbsp; &nbsp; &nbsp; &nbsp;07951742591<br><br></a><a data-app-btn=\"true\" href=\"mailto:epcinstruction@gmail.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"text-black\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span> info@lancashirehomeinspection.co.uk</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
