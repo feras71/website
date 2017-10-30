@@ -652,11 +652,11 @@ a:hover,
   font-family: 'Roboto', sans-serif;
 }
 #menu2-5 .link {
-  font-size: 1.35rem;
+  font-size: 0.8rem;
 }
 #menu2-5 .dropdown-item,
 #menu2-5 .nav-dropdown-sm .link {
-  font-size: 1.462rem;
+  font-size: 0.866rem;
 }
 #menu2-5 .link:hover,
 #menu2-5 .dropdown-item:hover,

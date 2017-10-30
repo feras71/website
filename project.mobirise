@@ -18,7 +18,8 @@
         "isRoundedButtons": true
       },
       "additionalSetColors": [
-        "#022b16"
+        "#022b16",
+        "#7aa0ed"
       ]
     },
     "versionFirst": "4.3.4",
@@ -104,7 +105,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#c441d6",
-            "fontSize": "1.35",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -320,10 +321,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#fff"
@@ -365,7 +366,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#c441d6",
-            "fontSize": "1.35",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -399,10 +400,10 @@
         {
           "_params": {
             "showBullets": true,
-            "spacing": "3",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#4be38f",
+            "spacing": "4",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#7aa0ed",
             "showText": true,
             "filter": true,
             "images": [
@@ -529,7 +530,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#c441d6",
-            "fontSize": "1.35",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
