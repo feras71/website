@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-22_1638",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -187,7 +187,7 @@
             "paddingBottom": "1",
             "showTitle": true,
             "showImages": true,
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
             "bgColorRadio": false,
@@ -198,7 +198,7 @@
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -230,7 +230,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 640,
-              "src": "@PROJECT_PATH@/assets/images/2d-floor-plan-640x465.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fplans2d-640x640.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -241,16 +241,22 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 640,
-              "src": "@PROJECT_PATH@/assets/images/c4-3.jpg",
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/fastfield-tools-360x320.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
             "image": {
               "class": "mbr-figure__img",
               "width": 640,
-              "src": "@PROJECT_PATH@/assets/images/c4-4.jpg",
-              "active": true
+              "src": "@PROJECT_PATH@/assets/images/defects.gif",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "title": "<em>Our</em> Design",
@@ -262,8 +268,8 @@
           "title4": "",
           "text1": "Domestic and Commercial Energy Performance Certificate &nbsp;(EPC)&nbsp;<br><br>",
           "text2": "Floor Plans and BIM (Building Information Modeling)&nbsp;",
-          "text3": "Rented Property solutions (Inventories and check-Outs)&nbsp;",
-          "text4": "Building defects advice (Damp, cracks, heat and energy efficiency ..)",
+          "text3": "<br>Rented Property solutions (Inventories and check-Outs)&nbsp;",
+          "text4": "<br>Building defects advice (Damp, cracks etc ..)",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
